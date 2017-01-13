@@ -1,0 +1,21 @@
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\bin\Debug\Text validator.exe
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\bin\Debug\Text validator.pdb
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\bin\Debug\Text validator.xml
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\obj\Debug\Text_validator.Form1.resources
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\obj\Debug\Text_validator.Resources.resources
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\obj\Debug\Text validator.vbproj.GenerateResource.Cache
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\obj\Debug\Text validator.exe
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\obj\Debug\Text validator.xml
+C:\Users\CLH01\AppData\Local\Temporary Projects\Text validator\obj\Debug\Text validator.pdb
+D:\Projects\Text validator\Text validator\bin\Debug\Text validator.exe
+D:\Projects\Text validator\Text validator\bin\Debug\Text validator.pdb
+D:\Projects\Text validator\Text validator\bin\Debug\Text validator.xml
+D:\Projects\Text validator\Text validator\obj\Debug\Text_validator.Form1.resources
+D:\Projects\Text validator\Text validator\obj\Debug\Text_validator.Resources.resources
+D:\Projects\Text validator\Text validator\obj\Debug\Text validator.vbproj.GenerateResource.Cache
+D:\Projects\Text validator\Text validator\obj\Debug\Text validator.exe
+D:\Projects\Text validator\Text validator\obj\Debug\Text validator.xml
+D:\Projects\Text validator\Text validator\obj\Debug\Text validator.pdb
+D:\Text Validator\Text validator\obj\Debug\Text validator.exe
+D:\Text Validator\Text validator\obj\Debug\Text validator.xml
+D:\Text Validator\Text validator\obj\Debug\Text validator.pdb
